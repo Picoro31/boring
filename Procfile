@@ -1,1 +1,1 @@
-web: gunicore api.js
+web: node api.js
